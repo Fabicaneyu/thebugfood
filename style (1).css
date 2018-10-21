@@ -1,0 +1,36 @@
+*{
+	margin:0px; 
+	padding:0px;
+}
+
+a:link, a:visited, a:hover, a:active{text-decoration: none; color:black;}
+#fundo{width: 1024px; min-height: 300px; background-color:white; margin-left:auto; margin-right:auto; position:relative;}
+#topo{height: 80px; width: auto; background-color:white; margin-left: auto; position:relative; margin-right:auto;}
+#corpo{min-height: 150px; width: auto; background-color:#c3d77b; position:relative; padding-bottom: 2%;}
+#rodape{height: 50px; width: auto; background-color:black; position: relative; color: white;}
+#link{width:205px; height: 80px; background-color:white; border-right:thin solid black;position:relative; float: left;}
+#logo{width:240px; height: 80px;  border-right:thin solid black;position:relative; float: left;}
+
+#text{
+	font-family: sans-serif; arial;
+	width: 90%;
+	margin-left: 5%;
+	text-align: justify;
+} 
+
+#receita{
+	font-family: sans-serif; arial;
+	width: 90%;
+	margin-left: 5%;
+	text-align: justify;
+} 
+
+#macarrao{
+	font-weight: bold;
+} 
+
+
+.Link{Font-Family:Arial;line-height: 80px;font-size:17px; color: black; text-align: center;}
+.txt{height:40px; width: 90%;font-size:20px;text-align:left;}
+.txt2{height:30px; width: 97%;font-size:18px;text-align:left;}
+.btn{background-color:white; color: black; font-size:20px; text-align:center;border:none; width:30%; height:100%}
